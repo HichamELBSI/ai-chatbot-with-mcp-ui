@@ -1,0 +1,16 @@
+{
+  "projectName": "kendo-mcp-client",
+  "mode": "file-router",
+  "typescript": true,
+  "tailwind": true,
+  "packageManager": "yarn",
+  "git": true,
+  "version": 1,
+  "framework": "react-cra",
+  "chosenAddOns": [
+    "biome",
+    "tanchat",
+    "start",
+    "store"
+  ]
+}
